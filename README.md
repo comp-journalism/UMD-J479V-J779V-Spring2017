@@ -53,7 +53,7 @@ UMD Course on Computational Journalism
   
 ###March 6 - Effects on Economics and Sustainability###
 ###March 13 - Algorithmic Accountability Reporting###
-###March 20 - <span style="color:blue">NO CLASS (Spring break)</span>###
+###March 20 - NO CLASS (Spring break)###
 ###March 27 - Ethics in Algorithmic Media###
 ###April 3 - Design and Innovation of Tools and Technologies for CJ###
 ###April 10 - Simulation, Prediction, and Modeling###
