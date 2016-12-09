@@ -2,8 +2,8 @@
 UMD Course on Computational Journalism
 
 ##Schedule##
-###January 3 - Introduction to Computational Journalism###  
-###February 6 - Computational and Data Journalism###  
+###January 3 - Introduction to Computational Journalism###
+###February 6 - Computational and Data Journalism###
 ###February 13 - Automated News Production###  
 ###February 20 - Algorithmic Curation and Dissemination###  
 ###February 27 - Data Mining for Editorial Value###  
