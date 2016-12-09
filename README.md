@@ -37,6 +37,10 @@ UMD Course on Computational Journalism
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
 ###February 13 - Automated News Production###
+- **Readings DUE**:
+  - A. Graefe. Guide to Automated Journalism. Tow Center Report. Jan. 2016. [PDF](https://www.gitbook.com/download/pdf/book/towcenter/guide-to-automated-journalism)
+  - T. Lokot and N. Diakopoulos. News Bots: Automating News and Information Dissemination on Twitter. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/newsbots_final.pdf)
+  - C. LeCompte. Automation in the Newsroom. Nieman Reports. Sept, 2015. [Article](http://niemanreports.org/articles/automation-in-the-newsroom/)
 
 - **Coding Hangout: Wed. Feb. 15, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
