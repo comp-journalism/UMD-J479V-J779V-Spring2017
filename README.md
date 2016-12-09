@@ -49,6 +49,10 @@ UMD Course on Computational Journalism
   
 ###February 20 - Algorithmic Curation and Dissemination###
 
+- **Readings DUE**:
+  - M. Sifry. Facebook Wants You to Vote on Tuesday. Here's How It Messed With Your Feed in 2012. Mother Jones. Oct. 2014. [Article](http://www.motherjones.com/politics/2014/10/can-voting-facebook-button-improve-voter-turnout)
+  - A. Spangher. Building the Next New York Times Recommendation Engine. NYT Open Blog. Aug. 2015 [Article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
+  
 - **Coding Hangout: Wed. Feb. 22, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
@@ -68,8 +72,13 @@ UMD Course on Computational Journalism
 ###March 27 - Ethics in Algorithmic Media###
   - N. Diakopoulos and M. Koliska. Algorithmic Transparency in the News Media. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2016/07/Algorithmic-Transparency-in-the-News-Media-Final.pdf)
   - A. Giorgi and C. Zhang. Peer Reviewing our Data Stories. Source. Oct, 2016. [Article](https://source.opennews.org/en-US/articles/peer-reviewing-our-data-stories/)
+  - E. Tandoc Jr. and R. Thomas. The Ethics of Web Analytics. Digital Journalism, 3:2, 243-258, 2015.  [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.909122#.Vnc3zOODFBc) (access on campus or via library to download PDF)
   
 ###April 3 - Design and Innovation of Tools and Technologies for CJ###
+ - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
+ - N. Diakopoulos. Cultivating the Landscape of Innovation in Computational Journalism. Tow-Knight Center for Entrepreneurial Journalism. April, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2012/05/diakopoulos_whitepaper_systematicinnovation.pdf)
+ - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/CommentIQ-CHI2016-Final-Version.pdf)
+ 
 ###April 10 - Simulation, Prediction, and Modeling###
 ###April 17 - Research Paper Presentations & Project Checkin Meetings###
 ###April 24 - In Class Final Project Progress Report Presentations###
