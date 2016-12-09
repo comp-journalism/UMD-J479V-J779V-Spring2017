@@ -20,9 +20,9 @@ UMD Course on Computational Journalism
 ###February 6 - Computational and Data Journalism###
 
 - **Readings DUE**:
-  - Cohen, S., Hamilton, J.T. & Turner, F., 2011. Computational journalism. Communications of the ACM, 54(10), pp.66–71. (http://dl.acm.org/citation.cfm?id=2001288) (access on campus or via library to download PDF)
+  - Cohen, S., Hamilton, J.T. & Turner, F., 2011. Computational journalism. Communications of the ACM, 54(10), pp.66–71. [Article Link](http://dl.acm.org/citation.cfm?id=2001288) (access on campus or via library to download PDF)
   - M. Coddington. Clarifying Journalism’s Quantitative Turn: A Typology for Evaluating Data Journalism, Computational Journalism, and Computer-Assisted Reporting. Digital Journalism, 3(3), 331–348. 2015. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976400) (access on campus or via library to download PDF)
-  - N. Silver. What the Fox Knows. Five Thirty Eight. March, 2014. [Article](http://fivethirtyeight.com/features/what-the-fox-knows/)
+  - N. Silver. What the Fox Knows. Five Thirty Eight. March, 2014. [Article Link](http://fivethirtyeight.com/features/what-the-fox-knows/)
   - A. Cairo. Data journalism needs to up its own standards. Nieman Lab. July, 2014. [Article](http://www.niemanlab.org/2014/07/alberto-cairo-data-journalism-needs-to-up-its-own-standards/)
   - P. Guo. Data Science Workflow: Overview and Challenges. CACM Blog. Oct. 2013.  [Post](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
   
