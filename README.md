@@ -80,8 +80,9 @@ UMD Course on Computational Journalism
  - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/CommentIQ-CHI2016-Final-Version.pdf)
  
 ###April 10 - Simulation, Prediction, and Modeling###
-  - Chapter 4: For years you've been telling us that rain is green. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/signal_noise_chapter_4.pdf)
-  - Chapter 7: Role models. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/signal_noise_chapter_7.pdf)
+  - N. Silver. The Signal and the Noise. Penguin Books. 2012. 
+    - Chapter 4: For years you've been telling us that rain is green. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/signal_noise_chapter_4.pdf)
+    - Chapter 7: Role models. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/signal_noise_chapter_7.pdf)
   - D. Lazar et al. The Parable of Google Flu: Traps in Big Data Analysis. Science Vol 343. March, 2014. [PDF](http://scholar.harvard.edu/files/gking/files/0314policyforumff.pdf)
   - I. Bogost, S. Ferrari, and B. Schweizer. Newsgames: Journalism at Play. 2010. Chapter 1: Newsgames. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/newsgames-chapter1.pdf)
   
