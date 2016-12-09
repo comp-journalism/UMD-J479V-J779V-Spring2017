@@ -41,6 +41,8 @@ UMD Course on Computational Journalism
   - A. Graefe. Guide to Automated Journalism. Tow Center Report. Jan. 2016. [PDF](https://www.gitbook.com/download/pdf/book/towcenter/guide-to-automated-journalism)
   - T. Lokot and N. Diakopoulos. News Bots: Automating News and Information Dissemination on Twitter. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/newsbots_final.pdf)
   - C. LeCompte. Automation in the Newsroom. Nieman Reports. Sept, 2015. [Article](http://niemanreports.org/articles/automation-in-the-newsroom/)
+  - S. Wang. The New York Times built a Slack bot to help decide which stories to post to social media. Nieman Lab. Aug 2015. [Link](http://www.niemanlab.org/2015/08/the-new-york-times-built-a-slack-bot-to-help-decide-which-stories-to-post-to-social-media/)
+
 
 - **Coding Hangout: Wed. Feb. 15, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
@@ -57,8 +59,16 @@ UMD Course on Computational Journalism
   
 ###March 6 - Effects on Economics and Sustainability###
 ###March 13 - Algorithmic Accountability Reporting###
+  - N. Diakopoulos. Algorithmic Accountability: Journalistic Investigation of Computational Power Structures. Digital Journalism. 2015. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf)
+  - J. Valentino-Devries,  J. Singer-Vine, A. Soltani. Websites Vary Prices, Deals Based on Users' Information. Wall Street Journal. Dec. 2012. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_7/Websites%20Vary%20Prices-WSJ.pdf)
+  - J. Angwin, J. Larson, S. Mattu and L. Kirchner. Machine Bias. ProPublica. May, 2016. [Article](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing); and How we Analyzed the COMPAS Recidivism Algorithm. [Article](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
+  
+  
 ###March 20 - NO CLASS (Spring break)###
 ###March 27 - Ethics in Algorithmic Media###
+  - N. Diakopoulos and M. Koliska. Algorithmic Transparency in the News Media. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2016/07/Algorithmic-Transparency-in-the-News-Media-Final.pdf)
+  - A. Giorgi and C. Zhang. Peer Reviewing our Data Stories. Source. Oct, 2016. [Article](https://source.opennews.org/en-US/articles/peer-reviewing-our-data-stories/)
+  
 ###April 3 - Design and Innovation of Tools and Technologies for CJ###
 ###April 10 - Simulation, Prediction, and Modeling###
 ###April 17 - Research Paper Presentations & Project Checkin Meetings###
