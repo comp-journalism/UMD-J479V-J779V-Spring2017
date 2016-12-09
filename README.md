@@ -56,16 +56,18 @@ UMD Course on Computational Journalism
 - **Coding Hangout: Wed. Feb. 22, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
-###February 27 - Data Mining I: Investigative###
-
-- **Readings DUE**:
-  - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
-  - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6875900&tag=1) (access on campus or via library to download PDF)
+###February 27 - Data Mining: Editorial and Business Applications###
+  - A. Fitts. The new importance of ‘social listening’ tools. Columbia Journalism Review. July / August 2015. [Article](http://www.cjr.org/analysis/the_new_importance_of_social_listening_tools.php)
+  - R. Schwartz, M. Naaman, R. Teodoro. Editorial Algorithms: Using Social Media to Discover and Report Local News. Proc. International Conference on Web and Social Media. 2015. [PDF](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10593/10523)
 
 - **Coding Hangout: Wed. Mar. 1, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
+
+###March 6 - Visual Analytics###
+- **Readings DUE**:
+  - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
+  - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6875900&tag=1) (access on campus or via library to download PDF)
   
-###March 6 - Data Mining II: ###
 ###March 13 - Algorithmic Accountability Reporting###
   - N. Diakopoulos. Algorithmic Accountability: Journalistic Investigation of Computational Power Structures. Digital Journalism. 2015. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf)
   - J. Valentino-Devries,  J. Singer-Vine, A. Soltani. Websites Vary Prices, Deals Based on Users' Information. Wall Street Journal. Dec. 2012. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_7/Websites%20Vary%20Prices-WSJ.pdf)
