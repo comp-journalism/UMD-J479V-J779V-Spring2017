@@ -43,31 +43,30 @@ UMD Course on Computational Journalism
   - C. LeCompte. Automation in the Newsroom. Nieman Reports. Sept, 2015. [Article](http://niemanreports.org/articles/automation-in-the-newsroom/)
   - S. Wang. The New York Times built a Slack bot to help decide which stories to post to social media. Nieman Lab. Aug 2015. [Link](http://www.niemanlab.org/2015/08/the-new-york-times-built-a-slack-bot-to-help-decide-which-stories-to-post-to-social-media/)
 
-
 - **Coding Hangout: Wed. Feb. 15, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
-###February 20 - Algorithmic Curation and Dissemination###
-
+###February 20 - Data Mining in Journalism###
 - **Readings DUE**:
-  - M. Sifry. Facebook Wants You to Vote on Tuesday. Here's How It Messed With Your Feed in 2012. Mother Jones. Oct. 2014. [Article](http://www.motherjones.com/politics/2014/10/can-voting-facebook-button-improve-voter-turnout)
-  - A. Spangher. Building the Next New York Times Recommendation Engine. NYT Open Blog. Aug. 2015 [Article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
+    - J. Stray. The Age of the Cyborg. Columbia Journalism Review. Fall / Winter 2016. [Article](http://www.cjr.org/analysis/cyborg_virtual_reality_reuters_tracer.php)
+    - A. Fitts. The new importance of ‘social listening’ tools. Columbia Journalism Review. July / August 2015. [Article](http://www.cjr.org/analysis/the_new_importance_of_social_listening_tools.php)
+    - R. Schwartz, M. Naaman, R. Teodoro. Editorial Algorithms: Using Social Media to Discover and Report Local News. Proc. International Conference on Web and Social Media. 2015. [PDF](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10593/10523)
   
 - **Coding Hangout: Wed. Feb. 22, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
-###February 27 - Data Mining: Editorial and Business Applications###
-  - **Readings DUE**:
-    - A. Fitts. The new importance of ‘social listening’ tools. Columbia Journalism Review. July / August 2015. [Article](http://www.cjr.org/analysis/the_new_importance_of_social_listening_tools.php)
-    - R. Schwartz, M. Naaman, R. Teodoro. Editorial Algorithms: Using Social Media to Discover and Report Local News. Proc. International Conference on Web and Social Media. 2015. [PDF](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10593/10523)
+###February 27 - Visual Analytics of Documents and Texts###
+- **Readings DUE**:
+  - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
+  - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6875900&tag=1) (access on campus or via library to download PDF)
 
 - **Coding Hangout: Wed. Mar. 1, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
 
-###March 6 - Visual Analytics of Documents and Texts###
+###March 6 - Algorithmic Curation and Dissemination###
 - **Readings DUE**:
-  - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
-  - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6875900&tag=1) (access on campus or via library to download PDF)
+  - M. Sifry. Facebook Wants You to Vote on Tuesday. Here's How It Messed With Your Feed in 2012. Mother Jones. Oct. 2014. [Article](http://www.motherjones.com/politics/2014/10/can-voting-facebook-button-improve-voter-turnout)
+  - A. Spangher. Building the Next New York Times Recommendation Engine. NYT Open Blog. Aug. 2015 [Article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
   
 ###March 13 - Algorithmic Accountability Reporting###
   - **Readings DUE**:
