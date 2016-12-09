@@ -2,7 +2,7 @@
 UMD Course on Computational Journalism
 
 ##Schedule##
-###January 3 - Introduction to Computational Journalism###
+###January 30 - Introduction to Computational Journalism###
 
 - **779V Assignment: Research Paper Presentation Out**
   - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Research-Paper-Presentation)
@@ -33,9 +33,24 @@ UMD Course on Computational Journalism
 - **Helpful resources**:
   - Markdown Basics [Link](https://help.github.com/articles/markdown-basics/)
   
+- **Coding Hangout: Wed. Feb. 8, 4:30-7:00pm in Knight 3207**
+  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
+  
 ###February 13 - Automated News Production###
+
+- **Coding Hangout: Wed. Feb. 15, 4:30-7:00pm in Knight 3207**
+  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
+  
 ###February 20 - Algorithmic Curation and Dissemination###
+
+- **Coding Hangout: Wed. Feb. 22, 4:30-7:00pm in Knight 3207**
+  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
+  
 ###February 27 - Data Mining for Editorial Value###
+
+- **Coding Hangout: Wed. Mar. 1, 4:30-7:00pm in Knight 3207**
+  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
+  
 ###March 6 - Effects on Economics and Sustainability###
 ###March 13 - Algorithmic Accountability Reporting###
 ###March 20 - NO CLASS (Spring break)###
