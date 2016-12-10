@@ -67,6 +67,7 @@ UMD Course on Computational Journalism
 - **Readings DUE**:
   - M. Sifry. Facebook Wants You to Vote on Tuesday. Here's How It Messed With Your Feed in 2012. Mother Jones. Oct. 2014. [Article](http://www.motherjones.com/politics/2014/10/can-voting-facebook-button-improve-voter-turnout)
   - A. Spangher. Building the Next New York Times Recommendation Engine. NYT Open Blog. Aug. 2015 [Article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
+  - E. Bell. Facebook is Eating the World. Columbia Journalism Review. March, 2016. [Article](http://www.cjr.org/analysis/facebook_and_media.php)
   
 ###March 13 - Algorithmic Accountability Reporting###
   - **Readings DUE**:
@@ -75,8 +76,8 @@ UMD Course on Computational Journalism
     - J. Valentino-Devries,  J. Singer-Vine, A. Soltani. Websites Vary Prices, Deals Based on Users' Information. Wall Street Journal. Dec. 2012. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_7/Websites%20Vary%20Prices-WSJ.pdf)
     - J. Angwin, J. Larson, S. Mattu and L. Kirchner. Machine Bias. ProPublica. May, 2016. [Article](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing); and How we Analyzed the COMPAS Recidivism Algorithm. [Article](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
   
-  
 ###March 20 - NO CLASS (Spring break)###
+
 ###March 27 - Ethics in Algorithmic Media###
   - **Readings DUE**:
     - N. Diakopoulos and M. Koliska. Algorithmic Transparency in the News Media. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2016/07/Algorithmic-Transparency-in-the-News-Media-Final.pdf)
