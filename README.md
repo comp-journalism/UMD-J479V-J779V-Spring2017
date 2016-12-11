@@ -49,6 +49,8 @@ UMD Course on Computational Journalism
 ###February 20 - Data Mining in Journalism###
 - **Readings DUE**:
     - J. Stray. The Age of the Cyborg. Columbia Journalism Review. Fall / Winter 2016. [Article](http://www.cjr.org/analysis/cyborg_virtual_reality_reuters_tracer.php)
+    - M. Magnusson, J. Finnas, L. Wallentin. Finding the news lead in the data haystack:
+Automated local data journalism using crime data. Proc. Computation + Journalism Symposium. 2016. [PDF](http://journalism.stanford.edu/cj2016/files/Finding%20the%20news%20lead%20in%20the%20data%20haystack.pdf)
     - A. Fitts. The new importance of ‘social listening’ tools. Columbia Journalism Review. July / August 2015. [Article](http://www.cjr.org/analysis/the_new_importance_of_social_listening_tools.php)
     - R. Schwartz, M. Naaman, R. Teodoro. Editorial Algorithms: Using Social Media to Discover and Report Local News. Proc. International Conference on Web and Social Media. 2015. [PDF](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10593/10523)
   
