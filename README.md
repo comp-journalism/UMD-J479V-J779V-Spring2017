@@ -67,6 +67,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
 
 ###March 6 - Algorithmic Curation and Dissemination###
 - **Readings DUE**:
+  - E. Bakshy, S. Messing, L. Adamic. Exposure to ideologically diverse news and opinion on Facebook. Science 348(6239). 2015. [PDF](http://education.biu.ac.il/files/education/shared/science-2015-bakshy-1130-2.pdf)
   - M. Sifry. Facebook Wants You to Vote on Tuesday. Here's How It Messed With Your Feed in 2012. Mother Jones. Oct. 2014. [Article](http://www.motherjones.com/politics/2014/10/can-voting-facebook-button-improve-voter-turnout)
   - A. Spangher. Building the Next New York Times Recommendation Engine. NYT Open Blog. Aug. 2015 [Article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
   - E. Bell. Facebook is Eating the World. Columbia Journalism Review. March, 2016. [Article](http://www.cjr.org/analysis/facebook_and_media.php)
