@@ -46,7 +46,7 @@ UMD Course on Computational Journalism
 - **Coding Hangout: Wed. Feb. 15, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
-###February 20 - Data Mining in Journalism###
+###February 20 - Journalistic Data Mining###
 - **Readings DUE**:
     - J. Stray. The Age of the Cyborg. Columbia Journalism Review. Fall / Winter 2016. [Article](http://www.cjr.org/analysis/cyborg_virtual_reality_reuters_tracer.php)
     - M. Magnusson, J. Finnas, L. Wallentin. Finding the news lead in the data haystack:
@@ -87,7 +87,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
     - A. Giorgi and C. Zhang. Peer Reviewing our Data Stories. Source. Oct, 2016. [Article](https://source.opennews.org/en-US/articles/peer-reviewing-our-data-stories/)
     - E. Tandoc Jr. and R. Thomas. The Ethics of Web Analytics. Digital Journalism, 3:2, 243-258, 2015.  [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.909122#.Vnc3zOODFBc) (access on campus or via library to download PDF)
   
-###April 3 - Design and Innovation of Tools and Technologies for CJ###
+###April 3 - Design and Innovation of Tools and Technologies###
  - **Readings DUE**:
    - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
    - N. Diakopoulos. Cultivating the Landscape of Innovation in Computational Journalism. Tow-Knight Center for Entrepreneurial Journalism. April, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2012/05/diakopoulos_whitepaper_systematicinnovation.pdf)
