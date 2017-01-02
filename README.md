@@ -35,6 +35,7 @@ UMD Course on Computational Journalism
   
 - **Code Tutorials**
   - Python Data Science Handbook: Data Manipulation with Pandas. [Link](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
+  - DataQuest: Introduction to Pandas. [Link](https://www.dataquest.io/mission/8/introduction-to-pandas/7/selecting-a-row)
   
 - **Coding Hangout: Wed. Feb. 8, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
