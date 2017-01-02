@@ -1,5 +1,77 @@
-# UMD-J479V-J779V-Spring2017
-UMD Course on Computational Journalism
+### JOUR479V / JOUR779V: Computational Journalism - Spring 2017###
+**University of Maryland, College Park, College of Journalism**  
+**Mondays 10:00am - 12:45pm**  
+**Location: Knight Hall Room 2107**
+
+**Instructor**: Assistant Professor Dr. Nicholas Diakopoulos, nad@umd.edu, <a href="http://www.nickdiakopoulos.com">nickdiakopoulos.com</a>, <a href="https://www.twitter.com/ndiakopoulos">@ndiakopoulos</a>  
+**Office Hours**: Knight Hall Room 3207 from 4:30-5:30pm Wednesdays, or by appointment  
+**Course Website:** https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017
+
+####Course Description####
+This course explores the conceptualization and application of computational and data-driven approaches to journalism practice. Students will examine how computational techniques are changing journalistic data gathering, curation, sensemaking, presentation, dissemination, and analytics of content. Approaches to news automation, data mining, visual analytics, platform dissemination, algorithmic accountability, and ethics will be discussed and applied in journalistic scenarios. Assignments both critical and creative in nature, as well as an integrative final project will serve to underscore the concepts taught and provide practice in producing artifacts of computational journalism. 
+
+####Learning Goals and Objectives####
+By the end of the course students should expect to have gained:
+- Knowledge of the opportunities that computing creates for journalism in data gathering, sensemaking, presentation, and dissemination, as well as a critical stance and understanding of implications and limitations of algorithms and computing in the media. 
+- An ability to constructively apply that knowledge to computational and data journalism projects and investigations by using computational thinking, data, and programming as needed. 
+- Skills and knowledge of practical tools (e.g., Python, Jupyter Notebooks, Github) and methods (e.g., debugging, code reuse, accessing documentation) that enable effective computational and data journalism. 
+
+####Prerequisites####
+- A university statistics course, or permission of the instructor
+- The Codecademy Python Course [Link](https://www.codecademy.com/learn/python)
+
+####Prerequisites####
+- A university statistics course, or permission of the instructor
+
+####Textbook and readings####
+- There is no single textbook for the course. Readings will draw on a wide range of texts including books, articles, and research papers. Copyrighted readings may be linked to the syllabus and you may need to access the PDF via the library, or by following the link from a computer on campus (which will automatically authenticate and give you access). Since readings may be updated over the course of the semester please check the online schedule on a weekly basis in order to get that week’s readings.
+- A recommended text for the skills aspects of the course is: *Python Data Science Handbook*, by Jake VanderPlas which is freely available online [Link](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+
+####Other Resources####
+- Computational Journalism Course @ Georgia Tech [Current Class](https://github.com/jacobeisenstein/gt-compj-class) | [Previous offerings](https://compjournalism.wordpress.com/)
+- Computational Journalism Course @ Columbia [Link](http://www.compjournalism.com/)
+- Computational Journalism Course @ Stanford [Link](http://www.compjour.org/)
+- Symposium on Computation + Journalism [2015](http://cj2015.brown.columbia.edu/), [2016](http://journalism.stanford.edu/cj2016/)
+- Source Open News [Link](https://source.opennews.org/en-US/)
+- Curated list of data science blogs [Link](https://github.com/rushter/data-science-blogs)
+
+####About the Instructor####
+Dr. Nicholas Diakopoulos is an Assistant Professor at the University of Maryland College of Journalism, with courtesy appointments in the College of Information Studies and Department of Computer Science. His research is in computational and data journalism with an emphasis on algorithmic accountability, narrative data visualization, and social computing in the news. He received his Ph.D. in Computer Science from the School of Interactive Computing at Georgia Tech where he co-founded the program in Computational Journalism. Before UMD he worked as a researcher at Columbia University, Rutgers University, and CUNY studying the intersections of information science, innovation, and journalism. 
+
+####Attendance and punctuality####
+Attendance is required. It is important that you attend every class arrive on time so that you can participate in discussion. Coming late or leaving early will be considered an absence. Please notify the professor in advance if you will be missing class for an excused reason (this could include personal issues or emergencies, illness (do NOT come to class sick), job interviews, religious observances, military obligations or other events that justify excused absences as per the [university policies](http://www.ugst.umd.edu/courserelatedpolicies.html). Please inform the instructor of a planned absence using this [form](https://docs.google.com/forms/d/e/1FAIpQLScVzFuE5SfI5C2tTWcQSWh2geClQqhSCKmX7lmWZCGtwEslTQ/viewform) **BEFORE** class. 
+
+####Religious Holidays####
+There will be no tests or major assignments scheduled on religious holidays identified by the university. If you expect to miss a class due to a religious holiday, please notify the professor in writing before the start of the second class.
+
+####Inclement weather####
+If the university closes due to foul weather (hurricanes, tornadoes, earthquakes, blizzards, ice) or other emergencies and class must be canceled, students will be advised of assignment adjustments by the instructor. We will use email to make these notifications. Please check the university's home page if in doubt about whether or not classes have been canceled on campus.
+
+####Academic integrity####
+Along with certain rights, students have the responsibility to behave honorably in an academic environment. Academic dishonesty, including cheating, fabrication, facilitating academic dishonesty and plagiarism, will not be tolerated. Adhering to a high ethical standard is of special importance in journalism, where reliability and credibility are the cornerstones of the field. Therefore, the college has adopted a “zero tolerance” policy on academic dishonesty. Any abridgment of academic integrity standards in a College of Journalism course will be referred to the university’s Student Honor Council (see http://www.shc.umd.edu and the college's deans. To insure this is understood, all students are asked to sign an academic integrity pledge at the beginning of the semester that will cover all assignments in this course. Students found to have violated the university's honor code may face sanctions, including a grade of XF for the course, suspension or expulsion from the university.
+
+- ##### Collaboration Policy#####
+  - You may always discuss the homework and projects with other students, but your work must be your own. This includes all writing and code that you produce in the course. Using other people's writing or code without attribution is plagiarism and will not be tolerated. 
+  - Homework problem sets will be particularly collaborative and pair programming as well as code hangouts in the Computational Journalism Lab will encourage collaboration. All code and writing must still be your own. 
+  - The final project will be collaborative and you will work jointly with your team to produce all code and writing.
+  - All other assignments must be completed *individually*.
+
+####Students with Special Needs####
+Students with a specific disability (permanent or temporary, physical or learning) needing special accommodation during the semester should make an appointment to meet with the professor immediately after the first class. Students may be asked to provide the instructor accommodation forms given to them after testing by the Disability Support Service on campus, 301-405-0813
+
+- *Assignments (45%)*
+  - For 479D there will be a total for three assignments due in the class each worth 15% of your grade. Assignments will be evaluated based on accuracy, design and usability, aesthetic appeal, critical and analytic rigor, writing quality, and functionality.
+  - For 779D there will be three assignments due in the class each worth 12% of your grade. In addition, students in 779D will select, present, and lead discussion on one of the *research papers* listed on the syllabus and this will count for 9% of your grade. 
+- *Final Project Proposal (10%)*
+  - You will develop a final integrative data visualization project that utilizes the knowledge you acquire throughout the semester. Your project proposal will describe what you intend to visualize including the data you have acquired, and what you think the story is in the data based on any exploratory visualization and analysis.
+- *Final Project (25%)*
+  - Your final data visualization project should show that you have integrated the knowledge you acquire in this class. Your final grade will incorporate aspects of the design and usability of your visualization, the clarity and newsworthiness of the story, and how much your project has improved through various stages of iteration, criticism, and improvement since the initial project proposal.
+- *Class Participation (20%)*
+  - Students are expected to read and engage with the assigned texts, and to be prepared to discuss those texts critically. In class you will be assessed according to the insightfulness of contributions, critiques, and questions you raise during class discussion.
+  - To show that you are prepared to discuss an assigned article, you should prepare at least one question based on your reading and post it to the Wiki page. 
+  
+#####Late Work Policy#####
+Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 day late. Assignments more than five days late will not be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. Over the course of the semester you have one "slip" day. This day can be applied to any of the three primary assignments in the class (excluding the research paper presentation and final project) and allows you to hand in that assignment up to 24 hours late with no penalty. Use it wisely!  
 
 ##Schedule##
 ###January 30 - Introduction to Computational Journalism###
@@ -66,7 +138,8 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
   - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6875900&tag=1) (access on campus or via library to download PDF)
 
-- **Coding Hangout: Wed. Mar. 1, 4:30-7:00pm in Knight 3207**
+- **Coding Hangout: Tuesday. Feb. 28, 4:30-7:00pm in Knight 3207**
+  - NOTE: Hangout is on Tuesday this week. 
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
 
 ###March 6 - Algorithmic Curation and Dissemination###
