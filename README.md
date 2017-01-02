@@ -58,13 +58,14 @@ Students with a specific disability (permanent or temporary, physical or learnin
 
 ####Assignments & Evaluation###
 All assignments and projects are due at the start of the class unless otherwise noted. Detailed instructions for each assignment and project will be provided as per the class schedule. 
-- *479V Homeworks and Assignments (45%)*
-  - Homeworks, 3% each and the best 4 of 5 homeworks will count towards the final grade for a total of 12%. 
-  - Assignments, 11% each
-- *779V Homeworks and Assignments (45%)*
-  - Homeworks, 2.5% each and the best 4 of 5 homeworks will count towards the final grade for a total of 10%. 
-  - Assignments, 11% each
-  - Research Paper Presentation, 8% 
+- *Homeworks and Assignments (45%)*
+  - 479V
+    - Homeworks, 3% each and the best 4 of 5 homeworks will count towards the final grade for a total of 12%. 
+    - Assignments, 11% each
+  - 779V
+    - Homeworks, 2.5% each and the best 4 of 5 homeworks will count towards the final grade for a total of 10%. 
+    - Assignments, 11% each
+    - Research Paper Presentation, 8% 
 - *Final Project Proposal (10%)*
   - You will develop a final project that utilizes the knowledge you acquire throughout the semester to create a news bot. Your proposal will describe your concept, approach, and goals for the bot. 
 - *Final Project (25%)*
