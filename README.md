@@ -60,18 +60,21 @@ Along with certain rights, students have the responsibility to behave honorably 
 Students with a specific disability (permanent or temporary, physical or learning) needing special accommodation during the semester should make an appointment to meet with the professor immediately after the first class. Students may be asked to provide the instructor accommodation forms given to them after testing by the Disability Support Service on campus, 301-405-0813
 
 ####Assignments & Evaluation###
-All assignments and projects are due at the start of the class unless otherwise noted. Detailed instructions for each instruction and project will be provided as per the class schedule. 
-
-- *Assignments (45%)*
-  - For 479D there will be a total for three assignments due in the class each worth 15% of your grade. Assignments will be evaluated based on accuracy, design and usability, aesthetic appeal, critical and analytic rigor, writing quality, and functionality.
-  - For 779D there will be three assignments due in the class each worth 12% of your grade. In addition, students in 779D will select, present, and lead discussion on one of the *research papers* listed on the syllabus and this will count for 9% of your grade. 
+All assignments and projects are due at the start of the class unless otherwise noted. Detailed instructions for each assignment and project will be provided as per the class schedule. 
+- *479V Homeworks and Assignments (45%)*
+  - Homeworks, 3% each and the best 4 of 5 homeworks will count towards the final grade for a total of 12%. 
+  - Assignments, 11% each
+- *779V Homeworks and Assignments (45%)*
+  - Homeworks, 2.5% each and the best 4 of 5 homeworks will count towards the final grade for a total of 10%. 
+  - Assignments, 11% each
+  - Research Paper Presentation, 8% 
 - *Final Project Proposal (10%)*
-  - You will develop a final integrative data visualization project that utilizes the knowledge you acquire throughout the semester. Your project proposal will describe what you intend to visualize including the data you have acquired, and what you think the story is in the data based on any exploratory visualization and analysis.
+  - You will develop a final project that utilizes the knowledge you acquire throughout the semester to create a news bot. Your proposal will describe your concept, approach, and goals for the bot. 
 - *Final Project (25%)*
-  - Your final data visualization project should show that you have integrated the knowledge you acquire in this class. Your final grade will incorporate aspects of the design and usability of your visualization, the clarity and newsworthiness of the story, and how much your project has improved through various stages of iteration, criticism, and improvement since the initial project proposal.
+  - Your final project should demonstrate that you have integrated the knowledge you acquire in this class and will be graded based on the project concept, execution, and presentation(s). 
 - *Class Participation (20%)*
   - Students are expected to read and engage with the assigned texts, and to be prepared to discuss those texts critically. In class you will be assessed according to the insightfulness of contributions, critiques, and questions you raise during class discussion.
-  - To show that you are prepared to discuss an assigned article, you should prepare at least one question based on your reading and post it to the Wiki page. 
+  - To show that you are prepared to discuss the assigned readings, you should prepare at least one question based on your reading and [post it to the Wiki page](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Weekly-Discussion-Questions-Based-on-Readings). 
   
 #####Late Work Policy#####
 Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 day late. Assignments more than five days late will not be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. Over the course of the semester you have one "slip" day. This day can be applied to any of the three primary assignments in the class (excluding the research paper presentation and final project) and allows you to hand in that assignment up to 24 hours late with no penalty. Use it wisely!  
