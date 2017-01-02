@@ -33,6 +33,9 @@ UMD Course on Computational Journalism
 - **Helpful resources**:
   - Markdown Basics [Link](https://help.github.com/articles/markdown-basics/)
   
+- **Code Tutorials**
+  - VanderPlas. Python Data Science Handbook. Data Manipulation with Pandas. [Link](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
+  
 - **Coding Hangout: Wed. Feb. 8, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
