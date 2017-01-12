@@ -7,6 +7,8 @@
 **Office Hours**: Knight Hall Room 3207 from 4:30-5:30pm Wednesdays, or by appointment  
 **Course Website:** https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017
 
+Please refer to The University's Office of Undergraduate Studies for additional course-related university polices: http://www.ugst.umd.edu/courserelatedpolicies.html
+
 ####Course Description####
 This course explores the conceptualization and application of computational and data-driven approaches to journalism practice. Students will examine how computational techniques are changing journalistic data gathering, curation, sensemaking, presentation, dissemination, and analytics of content. Approaches to news automation, data mining, visual analytics, platform dissemination, algorithmic accountability, and ethics will be discussed and applied in journalistic scenarios. Assignments both critical and creative in nature, as well as an integrative final project will serve to underscore the concepts taught and provide practice in producing artifacts of computational journalism. 
 
