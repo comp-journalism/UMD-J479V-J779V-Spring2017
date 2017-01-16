@@ -9,14 +9,15 @@
 
 Please refer to The University's Office of Undergraduate Studies for additional course-related university polices: http://www.ugst.umd.edu/courserelatedpolicies.html
 
-Please review this article on email etiquette before emailing the instructor: http://umdpsyc.blogspot.com/2012/03/what-your-write-matters-advise-on.html
 
 ####Course Description####
 This course explores the conceptualization and application of computational and data-driven approaches to journalism practice. Students will examine how computational techniques are changing journalistic data gathering, curation, sensemaking, presentation, dissemination, and analytics of content. Approaches to news automation, data mining, visual analytics, platform dissemination, algorithmic accountability, and ethics will be discussed and applied in journalistic scenarios. Assignments both critical and creative in nature, as well as an integrative final project will serve to underscore the concepts taught and provide practice in producing artifacts of computational journalism. 
 
-
 ####About the Instructor####
 Dr. Nicholas Diakopoulos is an Assistant Professor at the University of Maryland College of Journalism, with courtesy appointments in the College of Information Studies and Department of Computer Science. His research is in computational and data journalism with an emphasis on algorithmic accountability, narrative data visualization, and social computing in the news. He received his Ph.D. in Computer Science from the School of Interactive Computing at Georgia Tech where he co-founded the program in Computational Journalism. Before UMD he worked as a researcher at Columbia University, Rutgers University, and CUNY studying the intersections of information science, innovation, and journalism. 
+
+#####Communicating with the Instructor#####
+Please review this article on email etiquette before emailing the instructor: http://umdpsyc.blogspot.com/2012/03/what-your-write-matters-advise-on.html
 
 ####Learning Goals and Objectives####
 By the end of the course students should expect be able to:
