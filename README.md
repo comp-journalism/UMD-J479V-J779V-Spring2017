@@ -13,10 +13,10 @@ Please refer to The University's Office of Undergraduate Studies for additional 
 This course explores the conceptualization and application of computational and data-driven approaches to journalism practice. Students will examine how computational techniques are changing journalistic data gathering, curation, sensemaking, presentation, dissemination, and analytics of content. Approaches to news automation, data mining, visual analytics, platform dissemination, algorithmic accountability, and ethics will be discussed and applied in journalistic scenarios. Assignments both critical and creative in nature, as well as an integrative final project will serve to underscore the concepts taught and provide practice in producing artifacts of computational journalism. 
 
 ####Learning Goals and Objectives####
-By the end of the course students should expect to have gained:
-- Knowledge of the opportunities that computing creates for journalism in data gathering, sensemaking, presentation, and dissemination, as well as a critical stance and understanding of implications and limitations of algorithms and computing in the media. 
-- An ability to constructively apply that knowledge to computational and data journalism projects and investigations by using computational thinking, data, and programming as needed. 
-- Skills and knowledge of practical tools (e.g., Python, Jupyter Notebooks, Github) and methods (e.g., debugging, code reuse, accessing documentation) that enable effective computational and data journalism. 
+By the end of the course students should expect be able to:
+- Describe and evaluate opportunities that computational methods create for journalism across tasks such as data gathering, sensemaking, presentation, and dissemination.
+- Demonstrate a critical stance towards the use of algorithms and computing in the news media reflecting an ability to judge implications and limitations. 
+- Design and implement computational and data journalism projects using acquired practical skills in data analysis and programming (e.g., debugging, code reuse, accessing documentation)
 
 ####Prerequisites####
 - A university statistics course, or permission of the instructor
