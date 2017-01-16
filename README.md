@@ -12,6 +12,10 @@ Please refer to The University's Office of Undergraduate Studies for additional 
 ####Course Description####
 This course explores the conceptualization and application of computational and data-driven approaches to journalism practice. Students will examine how computational techniques are changing journalistic data gathering, curation, sensemaking, presentation, dissemination, and analytics of content. Approaches to news automation, data mining, visual analytics, platform dissemination, algorithmic accountability, and ethics will be discussed and applied in journalistic scenarios. Assignments both critical and creative in nature, as well as an integrative final project will serve to underscore the concepts taught and provide practice in producing artifacts of computational journalism. 
 
+
+####About the Instructor####
+Dr. Nicholas Diakopoulos is an Assistant Professor at the University of Maryland College of Journalism, with courtesy appointments in the College of Information Studies and Department of Computer Science. His research is in computational and data journalism with an emphasis on algorithmic accountability, narrative data visualization, and social computing in the news. He received his Ph.D. in Computer Science from the School of Interactive Computing at Georgia Tech where he co-founded the program in Computational Journalism. Before UMD he worked as a researcher at Columbia University, Rutgers University, and CUNY studying the intersections of information science, innovation, and journalism. 
+
 ####Learning Goals and Objectives####
 By the end of the course students should expect be able to:
 - Describe and evaluate opportunities that computational methods create for journalism across tasks such as data gathering, sensemaking, presentation, and dissemination.
@@ -33,9 +37,6 @@ By the end of the course students should expect be able to:
 - Symposium on Computation + Journalism [2015](http://cj2015.brown.columbia.edu/), [2016](http://journalism.stanford.edu/cj2016/)
 - Source Open News [Link](https://source.opennews.org/en-US/)
 - Curated list of data science blogs [Link](https://github.com/rushter/data-science-blogs)
-
-####About the Instructor####
-Dr. Nicholas Diakopoulos is an Assistant Professor at the University of Maryland College of Journalism, with courtesy appointments in the College of Information Studies and Department of Computer Science. His research is in computational and data journalism with an emphasis on algorithmic accountability, narrative data visualization, and social computing in the news. He received his Ph.D. in Computer Science from the School of Interactive Computing at Georgia Tech where he co-founded the program in Computational Journalism. Before UMD he worked as a researcher at Columbia University, Rutgers University, and CUNY studying the intersections of information science, innovation, and journalism. 
 
 ####Attendance and punctuality####
 Attendance is required. It is important that you attend every class and arrive on time so that you can participate in discussion. Coming late or leaving early will be considered an absence. Please notify the professor in advance if you will be missing class for an excused reason (this could include personal issues or emergencies, illness (do NOT come to class sick), job interviews, religious observances, military obligations or other events that justify excused absences as per the [university policies](http://www.ugst.umd.edu/courserelatedpolicies.html). Please inform the instructor of a planned absence using this [form](https://docs.google.com/forms/d/e/1FAIpQLScVzFuE5SfI5C2tTWcQSWh2geClQqhSCKmX7lmWZCGtwEslTQ/viewform) **BEFORE** class. 
