@@ -125,7 +125,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Problem Set 1 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
   
 - **Coding Circle: Wed. Feb. 8, 4:30-7:00pm in Knight 3207**
-  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
+  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdSPtu_E_4UyEsg-DCk5CrTaHWVaUtZu_9pVzPsMUhX6lN8UQ/viewform)
   
 ###February 13 - Automated News Production###
 - **Readings DUE**:
@@ -140,7 +140,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Assignment 1 OUT
   
 - **Coding Circle: Wed. Feb. 15, 4:30-7:00pm in Knight 3207**
-  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
+  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdFroviUsIyIiqO7xwPNPQBpYpYX0-PRHem9csl7cem_JaTAQ/viewform)
   
 ###February 20 - Journalistic Data Mining###
 - **Readings DUE**:
@@ -155,7 +155,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - Problem Set 3 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
   
 - **Coding Circle: Wed. Feb. 22, 4:30-7:00pm in Knight 3207**
-  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
+  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSeFtFwBKuF8bXyvM_lgS01aiFCjhGeU3-IWEizFkkvRRctBhA/viewform)
   
 ###February 27 - Visual Analytics of Documents and Texts###
 - **Readings DUE**:
@@ -170,7 +170,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   
 - **Coding Circle: Tuesday. Feb. 28, 4:30-7:00pm in Knight 3207**
   - NOTE: Hangout is on Tuesday this week. 
-  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
+  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSfMuqnoLzoD3IZCv3ewcHU8wmYnOhjEmiPPqwda8AyXmnaBHg/viewform)
 
 ###March 6 - Algorithmic Curation and Dissemination###
 - **Readings DUE**:
