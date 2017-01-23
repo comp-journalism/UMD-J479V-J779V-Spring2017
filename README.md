@@ -89,14 +89,17 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **779V Assignment: Research Paper Presentation Out**
   - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Research-Paper-Presentation)
   
-- **Homework OUT**
+- **Take-home Tutorials**
   - Python tutorial: "Variables, Strings, and Numbers" [Link](http://introtopython.org/var_string_num.html)
   - Python tutorial: "Lists and Tuples" [Link](http://introtopython.org/lists_tuples.html)
   - Python tutorial: "Introducing Functions" [Link](http://introtopython.org/introducing_functions.html)
   - Python tutorial: "If Statements" [Link](http://introtopython.org/if_statements.html)
   - Python tutorial: "While loops and Input" [Link](http://introtopython.org/while_input.html)
   
-- **Coding Hangout: Wed. Feb. 1, 5:00-7:00pm in Knight 3207**
+- **Homework**
+  - Problem Set 0 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
+  
+- **Coding Circle: Wed. Feb. 1, 5:00-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
 ###February 6 - Computational and Data Journalism###
@@ -112,14 +115,16 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - C. Groskopf. The Quartz guide to bad data. [Link](https://github.com/Quartz/bad-data-guide)
   - N. Diakopoulos. The Rhetoric of Data. July, 2013. [Article](http://towcenter.org/the-rhetoric-of-data/)
   
-- **Helpful resources**:
+- **Take-home Tutorials**
   - Markdown Basics [Link](https://help.github.com/articles/markdown-basics/)
-  
-- **Code Tutorials**
   - Python Data Science Handbook: Data Manipulation with Pandas. [Link](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
   - DataQuest: Introduction to Pandas. [Link](https://www.dataquest.io/mission/8/introduction-to-pandas/7/selecting-a-row)
+
+- **Homework**
+  - Problem Set 0 DUE
+  - Problem Set 1 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
   
-- **Coding Hangout: Wed. Feb. 8, 4:30-7:00pm in Knight 3207**
+- **Coding Circle: Wed. Feb. 8, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
 ###February 13 - Automated News Production###
@@ -129,7 +134,12 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - A. Johri, S. Han, D. Mehta. Domain Specific Newsbots. Proc. Computation + Journalism Symposium. 2016. [PDF](https://journalism.stanford.edu/cj2016/files/Newsbots.pdf)
   - T. Lokot and N. Diakopoulos. News Bots: Automating News and Information Dissemination on Twitter. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/newsbots_final.pdf)
 
-- **Coding Hangout: Wed. Feb. 15, 4:30-7:00pm in Knight 3207**
+- **Homework**
+  - Problem Set 1 DUE
+  - Problem Set 2 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
+  - Assignment 1 OUT
+  
+- **Coding Circle: Wed. Feb. 15, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
 ###February 20 - Journalistic Data Mining###
@@ -139,8 +149,12 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 Automated local data journalism using crime data. Proc. Computation + Journalism Symposium. 2016. [PDF](http://journalism.stanford.edu/cj2016/files/Finding%20the%20news%20lead%20in%20the%20data%20haystack.pdf)
     - A. Fitts. The new importance of ‘social listening’ tools. Columbia Journalism Review. July / August 2015. [Article](http://www.cjr.org/analysis/the_new_importance_of_social_listening_tools.php)
     - R. Schwartz, M. Naaman, R. Teodoro. Editorial Algorithms: Using Social Media to Discover and Report Local News. Proc. International Conference on Web and Social Media. 2015. [PDF](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10593/10523)
+
+- **Homework**
+  - Problem Set 2 DUE
+  - Problem Set 3 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
   
-- **Coding Hangout: Wed. Feb. 22, 4:30-7:00pm in Knight 3207**
+- **Coding Circle: Wed. Feb. 22, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
 ###February 27 - Visual Analytics of Documents and Texts###
@@ -148,7 +162,13 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
   - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6875900&tag=1) (access on campus or via library to download PDF)
 
-- **Coding Hangout: Tuesday. Feb. 28, 4:30-7:00pm in Knight 3207**
+- **Homework**
+  - Problem Set 3 DUE
+  - Problem Set 4 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
+  - Assignment 1 DUE
+  - Assignment 2 OUT
+  
+- **Coding Circle: Tuesday. Feb. 28, 4:30-7:00pm in Knight 3207**
   - NOTE: Hangout is on Tuesday this week. 
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
 
@@ -159,12 +179,20 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - M. Sifry. Facebook Wants You to Vote on Tuesday. Here's How It Messed With Your Feed in 2012. Mother Jones. Oct. 2014. [Article](http://www.motherjones.com/politics/2014/10/can-voting-facebook-button-improve-voter-turnout)
   - A. Spangher. Building the Next New York Times Recommendation Engine. NYT Open Blog. Aug. 2015 [Article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
   - E. Bell. Facebook is Eating the World. Columbia Journalism Review. March, 2016. [Article](http://www.cjr.org/analysis/facebook_and_media.php)
+
+- **Homework**
+  - Problem Set 4 DUE
+
   
 ###March 13 - Algorithmic Accountability Reporting###
   - **Readings DUE**:
     - N. Diakopoulos. Algorithmic Accountability: Journalistic Investigation of Computational Power Structures. Digital Journalism. 2015. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf)
     - J. Valentino-Devries,  J. Singer-Vine, A. Soltani. Websites Vary Prices, Deals Based on Users' Information. Wall Street Journal. Dec. 2012. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_7/Websites%20Vary%20Prices-WSJ.pdf)
     - J. Angwin, J. Larson, S. Mattu and L. Kirchner. Machine Bias. ProPublica. May, 2016. [Article](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing); and How we Analyzed the COMPAS Recidivism Algorithm. [Article](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
+
+- **Homework**
+  - Assignment 2 DUE
+  - Final Project Proposal OUT
   
 ###March 20 - NO CLASS (Spring break)###
 
@@ -173,6 +201,9 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
     - N. Diakopoulos and M. Koliska. Algorithmic Transparency in the News Media. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2016/07/Algorithmic-Transparency-in-the-News-Media-Final.pdf)
     - A. Giorgi and C. Zhang. Peer Reviewing our Data Stories. Source. Oct, 2016. [Article](https://source.opennews.org/en-US/articles/peer-reviewing-our-data-stories/)
     - E. Tandoc Jr. and R. Thomas. The Ethics of Web Analytics. Digital Journalism, 3:2, 243-258, 2015.  [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.909122#.Vnc3zOODFBc) (access on campus or via library to download PDF)
+    
+- **Homework**
+  - Assignment 3 OUT
   
 ###April 3 - Design and Innovation of Tools and Technologies###
  - **Readings DUE**:
@@ -187,6 +218,9 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
       - Chapter 7: Role models. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/signal_noise_chapter_7.pdf)
     - D. Lazar et al. The Parable of Google Flu: Traps in Big Data Analysis. Science Vol 343. March, 2014. [PDF](http://scholar.harvard.edu/files/gking/files/0314policyforumff.pdf)
     - I. Bogost, S. Ferrari, and B. Schweizer. Newsgames: Journalism at Play. 2010. Chapter 1: Newsgames. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/newsgames-chapter1.pdf)
+
+- **Homework**
+  - Assignment 3 DUE
   
 ###April 17 - Research Paper Presentations & Project Checkin Meetings###
 ###April 24 - In Class Final Project Progress Report Presentations###
