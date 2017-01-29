@@ -86,9 +86,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ##Schedule##
 ###January 30 - Introduction to Computational Journalism###
 
-- **779V Assignment: Research Paper Presentation Out**
-  - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Research-Paper-Presentation)
-  
 - **Take-home Tutorials**
   - Python tutorial: "Variables, Strings, and Numbers" [Link](http://introtopython.org/var_string_num.html)
   - Python tutorial: "Lists and Tuples" [Link](http://introtopython.org/lists_tuples.html)
@@ -98,6 +95,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   
 - **Homework**
   - Problem Set 0 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
+  - 779V ONLY: Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Research-Paper-Presentation)
+  
   
 - **Coding Circle: Wed. Feb. 1, 5:00-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
