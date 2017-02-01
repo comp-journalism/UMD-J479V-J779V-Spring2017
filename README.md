@@ -154,6 +154,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - Problem Set 3 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
   
 - **Coding Circle: Tues. Feb. 21, 4:30-7:00pm in Knight 3207**
+  - NOTE: Hangout is on Tuesday this week. 
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSeFtFwBKuF8bXyvM_lgS01aiFCjhGeU3-IWEizFkkvRRctBhA/viewform)
   
 ###February 27 - Visual Analytics of Documents and Texts###
