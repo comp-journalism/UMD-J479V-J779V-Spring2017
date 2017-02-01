@@ -119,6 +119,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Python Data Science Handbook: Data Manipulation with Pandas. [Link](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
   - DataQuest: Introduction to Pandas. [Link](https://www.dataquest.io/mission/8/introduction-to-pandas/7/selecting-a-row)
 
+- **In-class Tutorial**
+  - Tutorial 1: Loading and Manipulating Data in Pandas [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/tutorials/Tutorial-1.ipynb)
+
 - **Homework**
   - Problem Set 0 DUE
   - Problem Set 1 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
