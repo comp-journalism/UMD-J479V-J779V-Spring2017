@@ -102,6 +102,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
 ###February 6 - Computational and Data Journalism###
+- Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/2_computational_data_journalism.pptx?raw=true)
 
 - **Readings DUE**:
   - Cohen, S., Hamilton, J.T. & Turner, F., 2011. Computational journalism. Communications of the ACM, 54(10), pp.66–71. [Article](http://dl.acm.org/citation.cfm?id=2001288) (access on campus or via library to download PDF)
