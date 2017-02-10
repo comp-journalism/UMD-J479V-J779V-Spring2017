@@ -137,6 +137,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - A. Johri, S. Han, D. Mehta. Domain Specific Newsbots. Proc. Computation + Journalism Symposium. 2016. [PDF](https://journalism.stanford.edu/cj2016/files/Newsbots.pdf)
   - T. Lokot and N. Diakopoulos. News Bots: Automating News and Information Dissemination on Twitter. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/newsbots_final.pdf)
 
+- **In-class Tutorial**
+  - Tutorial 2: Using APIs to Gather Data [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/tutorials/Tutorial-2.ipynb)
+
 - **Homework**
   - Problem Set 1 DUE
   - Problem Set 2 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
