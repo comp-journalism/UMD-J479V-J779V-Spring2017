@@ -17,7 +17,7 @@ You'll want to spend some time exploring the dataset. What's interesting or insi
 - Be sure to consider the tone and style of your writing. 
 - Be sure that there is some variability in the stories produced for different rows of data (wouldn't it be boring if all the stories were too similar?)
 
-See the [skeleton notebook]() for helpful code snippets that demonstrate the Jinja template engine as well as how to apply filters and conditional logic to your templates. 
+See the [skeleton notebook](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Homework/Assignment-1.ipynb) for helpful code snippets that demonstrate the Jinja template engine as well as how to apply filters and conditional logic to your templates. 
 
 The skeleton file also has a link to the dataset to use for the assignment. However, your code will be tested with new data that you haven't seen before so that there's a realistic assessment of whether it can adapt and be flexible to future data. 
 
