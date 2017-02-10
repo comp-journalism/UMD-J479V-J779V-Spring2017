@@ -143,7 +143,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Homework**
   - Problem Set 1 DUE
   - Problem Set 2 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
-  - Assignment 1 OUT
+  - Assignment 1 OUT: Automated News Writing [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Homework/Assignment-1.md)
   
 - **Coding Circle: Wed. Feb. 15, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdFroviUsIyIiqO7xwPNPQBpYpYX0-PRHem9csl7cem_JaTAQ/viewform)
