@@ -131,6 +131,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdSPtu_E_4UyEsg-DCk5CrTaHWVaUtZu_9pVzPsMUhX6lN8UQ/viewform)
   
 ###February 13 - Automated News Production###
+- Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/3_automated_news_production.pptx?raw=true)
+
 - **Readings DUE**:
   - A. Graefe. Guide to Automated Journalism. Tow Center Report. Jan. 2016. [PDF](https://www.gitbook.com/download/pdf/book/towcenter/guide-to-automated-journalism)
   - C. LeCompte. Automation in the Newsroom. Nieman Reports. Sept, 2015. [Article](http://niemanreports.org/articles/automation-in-the-newsroom/)
