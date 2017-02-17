@@ -158,6 +158,9 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
     - A. Fitts. The new importance of ‘social listening’ tools. Columbia Journalism Review. July / August 2015. [Article](http://www.cjr.org/analysis/the_new_importance_of_social_listening_tools.php)
     - R. Schwartz, M. Naaman, R. Teodoro. Editorial Algorithms: Using Social Media to Discover and Report Local News. Proc. International Conference on Web and Social Media. 2015. [PDF](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10593/10523)
 
+- ** In-class Tutorial**
+  - Tutorial 3: Text Analysis with NLTK [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/tutorials/Tutorial-3.ipynb)
+
 - **Homework**
   - Problem Set 2 DUE
   - Problem Set 3 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
