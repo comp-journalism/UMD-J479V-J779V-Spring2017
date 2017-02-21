@@ -151,6 +151,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdFroviUsIyIiqO7xwPNPQBpYpYX0-PRHem9csl7cem_JaTAQ/viewform)
   
 ###February 20 - Journalistic Data Mining###
+
+- Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/4_journalistic_data_mining.pptx?raw=true)
+
 - **Readings DUE**:
     - J. Stray. The Age of the Cyborg. Columbia Journalism Review. Fall / Winter 2016. [Article](http://www.cjr.org/analysis/cyborg_virtual_reality_reuters_tracer.php)
     - M. Magnusson, J. Finnas, L. Wallentin. Finding the news lead in the data haystack:
