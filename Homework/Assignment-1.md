@@ -1,7 +1,7 @@
 **Assignment #1 - Automated News Writing**
 
 **Out:** February 13, 2017  
-**Due:** February 27, 2017 (10am, before class begins)  
+**Due:** March 3, 2017 (5pm)  
 
 **Overview**  
 The goal of this assignment is to code and write a template that can produce stories automatically that might contribute to ongoing coverage of the issue of fatal shootings by police officers in the US. The code and text you write will take data from the Washington Post Fatal Police Shooting database and output a written story describing an overview, specifics of a single row of data, and any additional context. The story should be compellingly written, be distinct based on the row of data input but also be put in context of the entire dataset, and use conditional logic to alter the story text based on data values. Each row of data should produce a variant of the story (though there will obviously be some commonalities as well). Each story should be at least 250 words long. 
