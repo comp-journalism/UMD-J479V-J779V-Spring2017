@@ -180,8 +180,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
 - **Homework**
   - Problem Set 3 DUE
   - Problem Set 4 OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Problem-Sets)
-  - Assignment 1 DUE
-  - Assignment 2 OUT
+  - Assignment 1 DUE (Friday)
   
 - **Coding Circle: Tuesday. Feb. 28, 4:30-7:00pm in Knight 3207**
   - NOTE: Hangout is on Tuesday this week. 
@@ -197,7 +196,10 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
 
 - **Homework**
   - Problem Set 4 DUE
+  - Assignment 2 OUT
 
+- **Coding Circle: Wed. March 8, 4:30-7:00pm in Knight 3207**
+  - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSfMuqnoLzoD3IZCv3ewcHU8wmYnOhjEmiPPqwda8AyXmnaBHg/viewform)
   
 ###March 13 - Algorithmic Accountability Reporting###
   - **Readings DUE**:
@@ -206,7 +208,6 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
     - J. Angwin, J. Larson, S. Mattu and L. Kirchner. Machine Bias. ProPublica. May, 2016. [Article](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing); and How we Analyzed the COMPAS Recidivism Algorithm. [Article](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
 
 - **Homework**
-  - Assignment 2 DUE
   - Final Project Proposal OUT
   
 ###March 20 - NO CLASS (Spring break)###
@@ -218,6 +219,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
     - E. Tandoc Jr. and R. Thomas. The Ethics of Web Analytics. Digital Journalism, 3:2, 243-258, 2015.  [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.909122#.Vnc3zOODFBc) (access on campus or via library to download PDF)
     
 - **Homework**
+  - Assignment 2 DUE
   - Assignment 3 OUT
   
 ###April 3 - Design and Innovation of Tools and Technologies###
