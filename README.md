@@ -199,7 +199,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
 
 - **Homework**
   - Problem Set 4 DUE
-  - Assignment 2 OUT
+  - Assignment 2 OUT: Reproducible Data Analysis with Jupyter [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Homework/Assignment-2.md)
 
 - **Coding Circle: Wed. March 8, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSfMuqnoLzoD3IZCv3ewcHU8wmYnOhjEmiPPqwda8AyXmnaBHg/viewform)
