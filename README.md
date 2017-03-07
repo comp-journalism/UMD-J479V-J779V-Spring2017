@@ -210,8 +210,6 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
     - J. Valentino-Devries,  J. Singer-Vine, A. Soltani. Websites Vary Prices, Deals Based on Users' Information. Wall Street Journal. Dec. 2012. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_7/Websites%20Vary%20Prices-WSJ.pdf)
     - J. Angwin, J. Larson, S. Mattu and L. Kirchner. Machine Bias. ProPublica. May, 2016. [Article](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing); and How we Analyzed the COMPAS Recidivism Algorithm. [Article](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
 
-- **Homework**
-  - Final Project Proposal OUT
   
 ###March 20 - NO CLASS (Spring break)###
 
@@ -232,7 +230,8 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
    - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/CommentIQ-CHI2016-Final-Version.pdf)
    
 - **Homework**
-  - Final Project Proposal DUE
+  - Final Project Proposal OUT
+  - Assignment 3 DUE Friday April 7
  
 ###April 10 - Simulation, Prediction, and Modeling###
   - **Readings DUE**:
@@ -243,7 +242,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
     - I. Bogost, S. Ferrari, and B. Schweizer. Newsgames: Journalism at Play. 2010. Chapter 1: Newsgames. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/newsgames-chapter1.pdf)
 
 - **Homework**
-  - Assignment 3 DUE
+  - Final Project Proposal DUE Friday 4/14
   
 ###April 17 - Research Paper Presentations & Project Checkin Meetings###
 ###April 24 - In Class Final Project Progress Report Presentations###
