@@ -192,6 +192,8 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSfMuqnoLzoD3IZCv3ewcHU8wmYnOhjEmiPPqwda8AyXmnaBHg/viewform)
 
 ###March 6 - Algorithmic Curation and Dissemination###
+- Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/6_algorithmic_curation_dissemination.pptx?raw=true)
+
 - **Readings DUE**:
   - E. Bozdag. Bias in algorithmic filtering and personalization. Ethics and Information Technology 15, 3 (2013), 209–227 [PDF](https://www.researchgate.net/profile/Engin_Bozdag/publication/274633438_etin-final/links/5523d18f0cf2c815e0732a14.pdf)
   - E. Bakshy, S. Messing, L. Adamic. Exposure to ideologically diverse news and opinion on Facebook. Science 348(6239). 2015. [PDF](http://education.biu.ac.il/files/education/shared/science-2015-bakshy-1130-2.pdf)
