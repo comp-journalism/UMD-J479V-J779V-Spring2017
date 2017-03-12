@@ -15,7 +15,7 @@ Your final project will involve designing and developing a News Bot for Twitter 
 **Project Team**  
 You have been assigned a team to work with on the final project. You'll notice that people have different backgrounds on your team. Please contact your team mates ASAP to set up a time to meet and get started on the project. Here are the [teams](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/wiki/Final-Project-Teams). If you need contact information for your partner let the professor know (or check any of the emails sent to the whole class). 
 
-**Getting Started**
+**Getting Started**  
 For some inspiration you might start by [reading about the development](https://source.opennews.org/en-US/learning/automating-transparency/) of the [@CongressEdits](https://twitter.com/congressedits) bot. You should also review the [News Bots paper](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/newsbots_final.pdf) by Lokot & Diakopoulos for design ideas. And you can peruse a [news bots list](https://twitter.com/ndiakopoulos/lists/news-bots) to give you a sense of what's been done before. There are a lot of news bots out there and the expectation for this project is that you will exercise your creativity and come up with a new idea that hasn't been done before. Your bot should have some form of editorial intent, it should be a *news* bot! And it should somehow address the "fake news" phenomena, understood broadly. To learn more about the topical area you can start with Claire Wardle's [Fake News. It's Complicated](https://medium.com/1st-draft/fake-news-its-complicated-d0f773766c79#.jdiiucqn6). For other ideas, you might review Eli Pariser's [Design Solutions for Fake News](https://docs.google.com/document/d/1OPghC4ra6QLhaHhW8QvPJRMKGEXT7KaZtG_7s5-UQrw/edit#heading=h.l4uvrs8m75xh)
 
 Initially you could brainstorm some options for bots by considering dimensions of inputs, outputs, algorithms, and intents. Think about what inputs the bot might have (where would you get that data?), what the outputs would be, whether it will be an interactive bot (will it respond to others?), and overall what it should *do* and why. 
@@ -38,8 +38,7 @@ As you consider what bot you want to create, you should think about the feasibil
 
 You will implement your bot using a python library called Tweepy. I have created a [tutorial on the library](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/tutorials/Tweepy-tutorial.ipynb) so that you can familiarize yourself with (some of) the capabilities of the library such as tweeting, searching, or looking at trends. You should also review that tutorial linked there for details on how to create a twitter account, app, and get the necessary keys and tokens to be able to make your bot programmatically tweet. Also, don't be afraid to look at the [Tweepy Documentation](http://tweepy.readthedocs.io/en/v3.5.0/). 
 
-Then, to get started with the implementation download the [skeleton Jupyter Notebook ](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Homework/bot-skeleton.ipynb) for 
-the assignment which includes functions that will greatly simplify your development. You can flesh out the editorial logic of your bot by filling in code in the sections marked as "TODO" in that skeleton notebook. 
+Then, to get started with the implementation download the [skeleton Jupyter Notebook ](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Homework/bot-skeleton.ipynb) which includes functions that will greatly simplify your development. You can flesh out the editorial logic of your bot by filling in code in the sections marked as "TODO" in that skeleton notebook. 
 
 
 **Transparency**  
