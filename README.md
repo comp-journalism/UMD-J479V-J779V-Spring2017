@@ -216,7 +216,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
 
    
 - **Homework**
-  - Final Project Proposal OUT
+  - Final Project Proposal OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Homework/Final-Project.md)
   
 ###March 20 - NO CLASS (Spring break)###
 
