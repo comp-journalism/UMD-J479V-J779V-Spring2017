@@ -209,7 +209,9 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSfMuqnoLzoD3IZCv3ewcHU8wmYnOhjEmiPPqwda8AyXmnaBHg/viewform)
   
 ###March 13 - Algorithmic Accountability Reporting###
-  - **Readings DUE**:
+- Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/7_algo_accountability_reporting.pptx?raw=true)
+
+- **Readings DUE**:
     - N. Diakopoulos. Algorithmic Accountability: Journalistic Investigation of Computational Power Structures. Digital Journalism. 2015. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf)
     - J. Valentino-Devries,  J. Singer-Vine, A. Soltani. Websites Vary Prices, Deals Based on Users' Information. Wall Street Journal. Dec. 2012. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_7/Websites%20Vary%20Prices-WSJ.pdf)
     - J. Angwin, J. Larson, S. Mattu and L. Kirchner. Machine Bias. ProPublica. May, 2016. [Article](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing); and How we Analyzed the COMPAS Recidivism Algorithm. [Article](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
