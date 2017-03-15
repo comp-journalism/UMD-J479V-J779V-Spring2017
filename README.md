@@ -84,7 +84,7 @@ All assignments and projects are due at the start of the class unless otherwise 
 Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 day late. Assignments more than five days late will not be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. Over the course of the semester you have one "slip" day. This day can be applied to any of the three primary assignments in the class (excluding the research paper presentation and final project) and allows you to hand in that assignment up to 24 hours late with no penalty. Use it wisely!  
 
 ## Schedule ##
-###January 30 - Introduction to Computational Journalism###
+### January 30 - Introduction to Computational Journalism ###
 - Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/1_Intro_computational_journalism.pptx?raw=true)
 
 - **Take-home Tutorials**
@@ -101,7 +101,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Coding Circle: Wed. Feb. 1, 5:00-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdA1dPhXB5YHkZAGWzOdIABrHCHQlgthQ852ndBhVRSp8OAVA/viewform)
   
-###February 6 - Computational and Data Journalism###
+### February 6 - Computational and Data Journalism ###
 - Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/2_computational_data_journalism.pptx?raw=true)
 
 - **Readings DUE**:
@@ -130,7 +130,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Coding Circle: Wed. Feb. 8, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdSPtu_E_4UyEsg-DCk5CrTaHWVaUtZu_9pVzPsMUhX6lN8UQ/viewform)
   
-###February 13 - Automated News Production###
+### February 13 - Automated News Production ###
 - Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/3_automated_news_production.pptx?raw=true)
 
 - **Readings DUE**:
@@ -150,7 +150,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Coding Circle: Wed. Feb. 15, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdFroviUsIyIiqO7xwPNPQBpYpYX0-PRHem9csl7cem_JaTAQ/viewform)
   
-###February 20 - Journalistic Data Mining###
+### February 20 - Journalistic Data Mining ###
 
 - Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/4_journalistic_data_mining.pptx?raw=true)
 
@@ -172,7 +172,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - NOTE: Hangout is on Tuesday this week. 
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSeFtFwBKuF8bXyvM_lgS01aiFCjhGeU3-IWEizFkkvRRctBhA/viewform)
   
-###February 27 - Visual Analytics of Documents and Texts###
+### February 27 - Visual Analytics of Documents and Texts ###
 - Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/5_visual-analytics-docs-texts.pptx?raw=true)
 
 - **Readings DUE**:
@@ -191,7 +191,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - NOTE: Hangout is on Tuesday this week. 
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSfMuqnoLzoD3IZCv3ewcHU8wmYnOhjEmiPPqwda8AyXmnaBHg/viewform)
 
-###March 6 - Algorithmic Curation and Dissemination###
+### March 6 - Algorithmic Curation and Dissemination ###
 - Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/6_algorithmic_curation_dissemination.pptx?raw=true)
 
 - **Readings DUE**:
@@ -208,7 +208,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
 - **Coding Circle: Wed. March 8, 4:30-7:00pm in Knight 3207**
   - We'll gather as a group and work on the week's homework (or problem set) together in a collaborative atmosphere. RSVP and there will be Pizza! RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSfMuqnoLzoD3IZCv3ewcHU8wmYnOhjEmiPPqwda8AyXmnaBHg/viewform)
   
-###March 13 - Algorithmic Accountability Reporting###
+### March 13 - Algorithmic Accountability Reporting ###
 - Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/7_algo_accountability_reporting.pptx?raw=true)
 
 - **Readings DUE**:
@@ -220,9 +220,9 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
 - **Homework**
   - Final Project Proposal OUT [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Homework/Final-Project.md)
   
-###March 20 - NO CLASS (Spring break)###
+### March 20 - NO CLASS (Spring break) ###
 
-###March 27 - Ethics in Algorithmic Media###
+### March 27 - Ethics in Algorithmic Media ###
   - **Readings DUE**:
     - N. Diakopoulos and M. Koliska. Algorithmic Transparency in the News Media. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2016/07/Algorithmic-Transparency-in-the-News-Media-Final.pdf)
     - A. Giorgi and C. Zhang. Peer Reviewing our Data Stories. Source. Oct, 2016. [Article](https://source.opennews.org/en-US/articles/peer-reviewing-our-data-stories/)
@@ -232,7 +232,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - Assignment 2 DUE
   - Assignment 3 OUT
   
-###April 3 - Design and Innovation of Tools and Technologies###
+### April 3 - Design and Innovation of Tools and Technologies ###
  - **Readings DUE**:
    - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
    - N. Diakopoulos. Cultivating the Landscape of Innovation in Computational Journalism. Tow-Knight Center for Entrepreneurial Journalism. April, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2012/05/diakopoulos_whitepaper_systematicinnovation.pdf)
@@ -240,7 +240,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
 - **Homework**
   - Final Project Proposal IN
  
-###April 10 - Simulation, Prediction, and Modeling###
+### April 10 - Simulation, Prediction, and Modeling ###
   - **Readings DUE**:
     - N. Silver. The Signal and the Noise. Penguin Books. 2012. 
       - Chapter 4: For years you've been telling us that rain is green. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/signal_noise_chapter_4.pdf)
@@ -251,7 +251,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
 - **Homework**
   - Assignment 3 DUE 
   
-###April 17 - Research Paper Presentations & Project Checkin Meetings###
-###April 24 - In Class Final Project Progress Report Presentations###
-###May 1 - Research Paper Presentations & Project Checkin Meetings###
-###May 8 - In Class Final Project Presentations###
+### April 17 - Research Paper Presentations & Project Checkin Meetings ###
+### April 24 - In Class Final Project Progress Report Presentations ###
+### May 1 - Research Paper Presentations & Project Checkin Meetings ###
+### May 8 - In Class Final Project Presentations ###
