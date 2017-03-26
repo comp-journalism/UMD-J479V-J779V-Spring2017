@@ -18,7 +18,7 @@ Also reflect a bit and talk about whether the transparency information provided 
 Write your analysis as if you were going to post it to Medium and have other data journalists reading it: in other words, write for your peers. Be specific with examples and evidence to back up your critique. Make sure to consider the original article, any methods article, as well as Github repository in your analysis. 
 
 You should choose one of the following pieces to serve as the object of your critique.
-- Machine Bias. ProPublic. [Article](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) [Methods](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm), [Github repo](https://github.com/propublica/compas-analysis)
+- Machine Bias. ProPublic. [Article](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), [Methods](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm), [Github repo](https://github.com/propublica/compas-analysis)
 - LAPD underreported serious assaults, skewing crime stats for 8 years. LA Times. [Article](http://www.latimes.com/local/cityhall/la-me-crime-stats-20151015-story.html), [Repo](https://github.com/datadesk/lapd-crime-classification-analysis/blob/master/classifiers.ipynb)
 - The Tennis Racket. BuzzFeed News. [Article](http://www.buzzfeed.com/heidiblake/the-tennis-racket), [Methods 1](https://www.buzzfeed.com/johntemplon/how-we-used-data-to-investigate-match-fixing-in-tennis), [Methods 2](https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis), [Code](https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis/blob/master/notebooks/tennis-analysis.ipynb)
 
