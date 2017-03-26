@@ -230,7 +230,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
     
 - **Homework**
   - Assignment 2 DUE
-  - Assignment 3 OUT
+  - Assignment 3 OUT: Transparency Critique [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Homework/Assignment-3.md)
   
 ### April 3 - Design and Innovation of Tools and Technologies ###
  - **Readings DUE**:
