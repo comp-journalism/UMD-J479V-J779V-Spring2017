@@ -233,6 +233,8 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - Assignment 3 OUT: Transparency Critique [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Homework/Assignment-3.md)
   
 ### April 3 - Design and Innovation of Tools and Technologies ###
+ - Special Guest Al Johri from the Washington Post will be speaking
+ 
  - **Readings DUE**:
    - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
    - N. Diakopoulos. Cultivating the Landscape of Innovation in Computational Journalism. Tow-Knight Center for Entrepreneurial Journalism. April, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2012/05/diakopoulos_whitepaper_systematicinnovation.pdf)
