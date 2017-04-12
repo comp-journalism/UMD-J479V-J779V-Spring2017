@@ -223,6 +223,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
 ### March 20 - NO CLASS (Spring break) ###
 
 ### March 27 - Ethics in Algorithmic Media ###
+  - Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/8_ethics_in_algorithmic_media.pptx?raw=true)
   - **Readings DUE**:
     - N. Diakopoulos and M. Koliska. Algorithmic Transparency in the News Media. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2016/07/Algorithmic-Transparency-in-the-News-Media-Final.pdf)
     - A. Giorgi and C. Zhang. Peer Reviewing our Data Stories. Source. Oct, 2016. [Article](https://source.opennews.org/en-US/articles/peer-reviewing-our-data-stories/)
