@@ -245,6 +245,7 @@ Automated local data journalism using crime data. Proc. Computation + Journalism
   - Final Project Proposal IN
  
 ### April 10 - Simulation, Prediction, and Modeling ###
+  - Lecture Slides [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2017/blob/master/Slides/10_simulation_prediction_modeling.pptx?raw=true)
   - **Readings DUE**:
     - N. Silver. The Signal and the Noise. Penguin Books. 2012. 
       - Chapter 4: For years you've been telling us that rain is green. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/signal_noise_chapter_4.pdf)
